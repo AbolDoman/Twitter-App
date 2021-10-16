@@ -1,0 +1,118 @@
+{
+  "hashTags": [
+    "ویروس_منحوس_کرونا",
+    "واکسن_فایزر",
+    "بحران_ازدواج",
+    "برکت",
+    "سرخابی"
+  ],
+  "tweets": [
+    {
+      "sender": {
+        "name": "افشین خان",
+        "id": "@Khan_Afshin",
+        "img": "/images/tweetListImages/user_afshin_khan.jpg"
+      },
+      "likes": 90,
+      "text": "رمز غیرقابل معاوضه (Non-Fungible Token) که به اختصار آن را NFT نیز می‌نامند، نوع خاصی از #رمز_ارز است که نماد چیزی #منحصر به فرد به‌حساب می‌آید. بنابراین، این رمزها را نمی‌توان با یکدیگر #معاوضه کرد"
+    },
+    {
+      "sender": {
+        "name": "نرگس خاتون",
+        "id": "@Narges_Ketabi",
+        "img": "/images/tweetListImages/user_narges.jpg"
+      },
+      "likes": 32,
+      "text": "اکنون با گذشت ۱۵ سال این توییت به عنوان یک امضای دیجیتال منحصرب ه‌فرد در وبسایتی که به فروش توییت ها به #عنوان رمزهای غیرقابل معاوضه یا ان اف تی (NFT) اختصاص دارد، به #فروش گذاشته شد"
+    },
+    {
+      "sender": {
+        "name": "EliKa",
+        "id": "@E_AbdoulRazzaghi",
+        "img": "/images/tweetListImages/user_elika.jpg"
+      },
+      "likes": 32,
+      "text": "م‌بارش‌ترین سال آبی نیم‌قرن اخیر #ران بالأخره تمام شد. اما چنان که پیش‌بینی شده، شروع سال آبی جدید نیز شرایط #متفاوتی نخواهد داشت"
+    },
+    {
+      "sender": {
+        "name": "علی فاطمی",
+        "id": "@Ali_gonde",
+        "img": "/images/tweetListImages/user_ali.jpg"
+      },
+      "likes": 10,
+      "text": "هر روز شاهد اضافه شدن افرادی به لیست زنان یا مردان بلاگر، اینفلوئنسر، اینستاگرامر و میکروسلبریتی #سبک #زندگی هستیم بی آنکه به راستی به تبعات و پیامدهای آنها در جامعه و اذهان عامه مردم #آگاه باشیم"
+    },
+    {
+      "sender": {
+        "name": "علیرضا رِضایی",
+        "id": "@ARRezaei",
+        "img": "/images/tweetListImages/user_alireza.jpg"
+      },
+      "likes": 123,
+      "text": "تهران- ایرنا- «شیما فرزادمنش» جامعه‌شناس و پژوهشگر فضای مجازی و حوزه اینفلوئنسر مارکتینگ می‌گوید: از پیامدهای افزایش اینفلوئنسرهای سبک زندگی در صفحات مختلف اینستاگرامی ایجاد چالش‌های #اخلاقی و موجی از احساس ناامیدی و #نارضایتی در جامعه، #تجاوز به حریم خصوصی کودکان و ترویج کودکان کار #مجازی است"
+    },
+    {
+      "id": 532,
+      "sender": {
+        "name": "Doman",
+        "id": "@Abili_domi",
+        "img": "/images/userImages/user-doman.jpg"
+      },
+      "likes": 0,
+      "text": "i am abolafzl kabiri and i am a #new juior  react developer in th"
+    },
+    {
+      "id": 529,
+      "sender": {
+        "name": "Doman",
+        "id": "@Abili_domi",
+        "img": "/images/userImages/user-doman.jpg"
+      },
+      "likes": 0,
+      "text": "jnj"
+    },
+    {
+      "id": 202,
+      "sender": {
+        "name": "Doman",
+        "id": "@Abili_domi",
+        "img": "/images/userImages/user-doman.jpg"
+      },
+      "likes": 0,
+      "text": "لب=سینزتای"
+    }
+  ],
+  "users": [
+    {
+      "name": "اصغر شست چی",
+      "id": "asghar_saghai",
+      "img": "/images/reportersImages/asghar.jpg"
+    },
+    {
+      "name": "lizabet",
+      "id": "lizaBet_Locy",
+      "img": "/images/reportersImages/elizabet.jpg"
+    },
+    {
+      "name": "hiXangHung",
+      "id": "XHung",
+      "img": "/images/reportersImages/xangXhiHung.jpg"
+    },
+    {
+      "name": "lon Musk",
+      "id": "lonMusk1351",
+      "img": "/images/reportersImages/elonMusk.jpg"
+    },
+    {
+      "name": "lair Best",
+      "id": "lairBBest",
+      "img": "/images/reportersImages/blairBest.jpg"
+    },
+    {
+      "name": "پریسا",
+      "id": "arisa_parvaei",
+      "img": "/images/reportersImages/parisa.jpg"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+@import url(fonts/Samim-font.css);
+body{
+    box-sizing: border-box;
+    margin: 0;
+    direction: rtl ;
+    font-family: Samim, serif !important;
+    font-weight: 400!important;
+}
+a {
+    color: unset !important;
+    text-decoration: none;
+}
+a:visited {
+    color :unset !important;
+}
